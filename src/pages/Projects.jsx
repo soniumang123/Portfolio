@@ -129,7 +129,7 @@ const Projects = () => {
             </div>
             <div className="flex w-full min-w-0 gap-2 mt-5">
               <a href="https://github.com/soniumang123/OneCart" download="Umang_Resume.pdf" className="flex-1 min-w-0 inline-flex items-center justify-center gap-2 px-2 sm:px-3 py-3 border border-gray-500 rounded-xl text-sm sm:text-base text-white font-semibold hover:bg-gray-800 transition-colors" ><FaGithub className="h-5 w-5"/> Github <FaExternalLinkAlt  className="h-4 w-4 "/> </a>
-              <a href="/Umang_Resume.pdf" download="Umang_Resume.pdf" className="flex-1 min-w-0 inline-flex items-center justify-center gap-2 px-2 sm:px-3 py-3 rounded-xl text-sm sm:text-base text-white font-semibold bg-linear-to-r from-[#287CF5] to-[#6025F5] hover:brightness-110 transition-all"> <FaPlay  className="h-4 w-4 "/> Live Demo <FaExternalLinkAlt  className="h-4 w-4 "/></a>
+              <a href="https://onecart-frontend-efwz.onrender.com" download="Umang_Resume.pdf" className="flex-1 min-w-0 inline-flex items-center justify-center gap-2 px-2 sm:px-3 py-3 rounded-xl text-sm sm:text-base text-white font-semibold bg-linear-to-r from-[#287CF5] to-[#6025F5] hover:brightness-110 transition-all"> <FaPlay  className="h-4 w-4 "/> Live Demo <FaExternalLinkAlt  className="h-4 w-4 "/></a>
             </div>
           </div>
         </div>
