@@ -54,10 +54,7 @@ const Home = () => {
       <div className="h-full md:w-1/2 flex justify-center items-center px-5 overflow-hidden">
         <div className=" relative isolate w-full max-w-125 flex items-center justify-center ">
           
-          <div className="absolute top-[42%] left-1/2 -translate-x-1/2  w-[85%] aspect-square rounded-full bg-blue-600/40 blur-[70px] -z-20">
-          </div>
-          <div className="absolute top-[42%] left-1/2 -translate-x-1/2  w-[65%] aspect square rounded-full bg-blue-500/20 blur-[55px] -z-10">
-          </div>
+          
           
           <img src={image} alt="" className="h-60 sm:h-72 md:h-125 w-full object-contain rounded-2xl" />
         </div>
