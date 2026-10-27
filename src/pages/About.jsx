@@ -18,7 +18,7 @@ const About = () => {
                 <p className='max-w-xl text-left text-gray-500 leading-7 mt-3'>I'am Umang Soni,a B.Tech Graduate in Electronics and Communication Engineering with a strong interest in full stack web developement.
                     I enjoy building real-world projects,solving problems and learning new Technologies. I'm currently looking for full time opportunities as a MERN Stack Developer
                 </p>
-                <a href="/Umang_Resume.pdf" download="Umang_Resume.pdf" className="inline-flex px-3 py-4 border border-gray-500 rounded-xl  gap-2.5  text-sm font-semibold cursor-pointer hover:bg-linear-to-r hover:from-[#2196F3] hover:to-[#06B6D4] hover:border-transparent hover:text-white transition-all duration-300" >Download Resume <IoMdDownload className="h-5 w-5 " /></a>
+                <a href="/Umang_MernStack.pdf" download="Umang_MernStack.pdf" className="inline-flex px-3 py-4 border border-gray-500 rounded-xl  gap-2.5  text-sm font-semibold cursor-pointer hover:bg-linear-to-r hover:from-[#2196F3] hover:to-[#06B6D4] hover:border-transparent hover:text-white transition-all duration-300" >Download Resume <IoMdDownload className="h-5 w-5 " /></a>
 
                 
                 
