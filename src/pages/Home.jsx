@@ -42,7 +42,7 @@ const Home = () => {
             
               <a href="#project" className="flex w-full sm:w-auto items-center justify-center gap-2.5 bg-blue-500 px-3 py-3 md:px-4 md:py-3 rounded-2xl text-[15px] font-semibold cursor-pointer hover:bg-blue-800">View Projects <FaArrowRight /></a>
            
-            <a href="/Umang_Resume.pdf" download="Umang_Resume.pdf" className=" w-full sm:w-auto py-3 px-4 border border-gray-500 rounded-2xl flex gap-2.5 items-center justify-center text-[15px] font-semibold cursor-pointer hover:bg-linear-to-r hover:from-[#2196F3] hover:to-[#06B6D4] hover:border-transparent hover:text-white transition-all duration-300" >Download Resume <IoMdDownload className="h-5 w-5 " /></a>
+            <a href="/Umang_MernStack.pdf" download="Umang_MernStack.pdf" className=" w-full sm:w-auto py-3 px-4 border border-gray-500 rounded-2xl flex gap-2.5 items-center justify-center text-[15px] font-semibold cursor-pointer hover:bg-linear-to-r hover:from-[#2196F3] hover:to-[#06B6D4] hover:border-transparent hover:text-white transition-all duration-300" >Download Resume <IoMdDownload className="h-5 w-5 " /></a>
           </div>
           <div className="flex  gap-3 md:gap-7.5 justify-start mt-10">
            <a href="https://github.com/soniumang123" className="flex items-center gap-2.5  text-sm sm:text-base hover:text-blue-600"><FaGithub className="h-7 w-7" /> Github</a>
